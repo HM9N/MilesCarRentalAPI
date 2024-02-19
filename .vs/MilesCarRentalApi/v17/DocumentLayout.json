@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\utilities\\rentalcreationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:utilities\\rentalcreationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\utilities\\returnvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:utilities\\returnvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|c:\\users\\hm9n\\source\\repos\\milescarrentalapi\\context\\milescarrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013D242-0712-4077-9BCB-410E04EA4AB1}|MilesCarRentalApi.csproj|solutionrelative:context\\milescarrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:16:40.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\ClientService.cs",
+              "RelativeToolTip": "Services\\ClientService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:55:52.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\RentalService.cs",
+              "RelativeToolTip": "Services\\RentalService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:06:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RentalController.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "Controllers\\RentalController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:51:46.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:36:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Services\\VehicleService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:38:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:55:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:00:20.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentalCreationResult.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Utilities\\RentalCreationResult.cs",
+              "RelativeDocumentMoniker": "Utilities\\RentalCreationResult.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Utilities\\RentalCreationResult.cs",
+              "RelativeToolTip": "Utilities\\RentalCreationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:35:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IRentalService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Services\\Interfaces\\IRentalService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:13:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnVehicleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Utilities\\ReturnVehicleRequest.cs",
+              "RelativeDocumentMoniker": "Utilities\\ReturnVehicleRequest.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Utilities\\ReturnVehicleRequest.cs",
+              "RelativeToolTip": "Utilities\\ReturnVehicleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:35:56.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T04:35:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:57:50.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MilesCarRentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Context\\MilesCarRentalDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\MilesCarRentalDbContext.cs",
+              "ToolTip": "C:\\Users\\HM9N\\source\\repos\\MilesCarRentalApi\\Context\\MilesCarRentalDbContext.cs",
+              "RelativeToolTip": "Context\\MilesCarRentalDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:55:20.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
